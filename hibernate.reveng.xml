@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+	<table name="t_userlist" catalog="webmusic"></table>
+	<table name="t_user" catalog="webmusic"></table>
+	<table name="t_singer" catalog="webmusic"></table>
+	<table name="t_score" catalog="webmusic"></table>
+	<table name="t_musiclist" catalog="webmusic"></table>
+	<table name="t_music" catalog="webmusic"></table>
+	<table name="t_area" catalog="webmusic"></table>
+	<table name="t_album" catalog="webmusic"></table>
+</hibernate-reverse-engineering>
